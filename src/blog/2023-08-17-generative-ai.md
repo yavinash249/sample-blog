@@ -5,7 +5,7 @@ author: Avinash
 date: '2023-08-17T16:43:15+05:30'
 tags:
   - post
-image: /assets/blog/oip.jpeg
+image: /assets/blog/indian-girl.png
 imageAlt: Cubesat satellite image
 ---
 Generative AI is a type of artificial intelligence that can create new and original content, such as images, text, or music. It does this by learning from existing data sets and then using that information to generate new data that is similar to the original data. Generative AI has many potential applications, such as in art, design, and entertainment.
