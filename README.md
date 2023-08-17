@@ -1,3 +1,32 @@
+# Sample Blog
+## Blog made with 11t rocks and Netlify CMS
+
+clone repository from Kevin powell and install in local setup
+- Install dependencies
+```   sh
+      npm install @11ty/eleventy --save-dev
+      "start" : "eleventy --serve",
+      "build" " "eleventy"
+```  
+
+add configuration in eleventy.js file
+
+```
+module.exports = function(eleventyConfig){
+    return{
+        dir: {
+            inputs: "src",
+            output: "public"
+        }
+    }
+}
+
+```
+start server
+``` npm start ```
+
+[Web site is live here](https://sample-blog1.netlify.app)
+
 # JAMStack personal blog - starter files
 
 These are the starting files used by [Kevin Powell](https://kevinpowell.co) to create a personal blog site for the [Codementor](https://www.codementor.io/) DevProjects Challenge, [Create a fast and secure blog using JAMStack](https://www.codementor.io/projects/web/create-a-fast-and-secure-blog-using-jamstack-c93coupnxb). You are free to use them however you want to get started with the challenge, if you'd like to start working on creating the site without worrying about the content itself.
